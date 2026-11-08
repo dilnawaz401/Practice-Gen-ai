@@ -19,6 +19,7 @@ embedding = HuggingFaceEmbeddings()
 # Load the Llama-3.3-70B model from Groq
 llm = ChatGroq(
     model="openai/gpt-oss-20b",
+    
     temperature=0
 )
 

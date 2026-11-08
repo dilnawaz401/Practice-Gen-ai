@@ -12,6 +12,6 @@ unstructured[pdf]
 langchain-unstructured
 langchain-chroma
 langchain-groq
-opencv-python-headless
+opencv-python-headless==4.12.0.88
 unstructured-inference
 
